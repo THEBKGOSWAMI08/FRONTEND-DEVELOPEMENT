@@ -1,26 +1,24 @@
-# 🎨 CSS Basics Assignment  
-**Author:** Balkrishna Goswami  
+# 🧱 HTML — My First Web Page  
+**Author:** Balkrishna Goswami
 **Course:** Web Development (5th Semester)  
 **Institute:** GLA University  
-**Branch:** css  
+**Branch:** html  
 
 ---
 
 ## 📘 Overview
-This assignment demonstrates the use of **core CSS styling and layout techniques** applied through 10 structured questions.  
-Each question includes **separate `.html` and `.css` files** implementing modern, semantic, and responsive web design principles.
+This branch contains a **single HTML file** demonstrating the basics of **HTML structure and semantic elements**:
+
+- Header, navigation, main content, aside, and footer sections  
+- Use of headings (`h1`–`h3`), paragraphs, images, and links  
+- Text formatting elements: `strong`, `em`, `mark`, `small`, `span`, `code`  
+- Lists, line breaks, blockquotes, and citations  
+- Placeholder content for a blog, hobbies, and portfolio showcase  
+- Pure HTML (no CSS/JS) with proper indentation and comments  
 
 ---
 
-## 🧩 Topics Covered
-- ✅ CSS Selectors, Colors, and Units (`px`, `em`, `rem`, `%`, `vh`)  
-- ✅ Flexbox and Grid Layouts  
-- ✅ Background Images, Gradients & Parallax Effects  
-- ✅ Box Model (Margin, Border, Padding, Outline)  
-- ✅ Pseudo-classes and Pseudo-elements (`:hover`, `:focus`, `::first-letter`, `::first-line`)  
-- ✅ Responsive Design using Media Queries  
-- ✅ Form Styling and Centering Techniques  
-- ✅ CSS Transitions and Hover Animations  
-- ✅ Sticky, Fixed, and Relative Positioning  
+## 📂 File
+- `htmlbasics.html` – Contains all the above examples in one file.
 
 ---
