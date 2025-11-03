@@ -1,26 +1,37 @@
-# 🎨 CSS Basics Assignment  
-**Author:** Balkrishna Goswami  
+# 🧱 CSS Model Assignment  
+**Author:** Balkrishna Goswami
 **Course:** Web Development (5th Semester)  
 **Institute:** GLA University  
-**Branch:** css  
+**Branch:** css-classes  
 
 ---
 
 ## 📘 Overview
-This assignment demonstrates the use of **core CSS styling and layout techniques** applied through 10 structured questions.  
-Each question includes **separate `.html` and `.css` files** implementing modern, semantic, and responsive web design principles.
+This assignment demonstrates various **CSS styling and layout techniques** through ten practical exercises.  
+It covers the **Box Model**, **Selectors**, **Pseudo-classes**, **Flexbox**, **Grid**, **Transitions**, **Animations**, and **UI Components**, helping build a strong foundation in front-end design principles.  
+
+Each question is implemented in a **separate HTML file** with **internal CSS only**, ensuring code clarity and simplicity.
 
 ---
 
 ## 🧩 Topics Covered
-- ✅ CSS Selectors, Colors, and Units (`px`, `em`, `rem`, `%`, `vh`)  
-- ✅ Flexbox and Grid Layouts  
-- ✅ Background Images, Gradients & Parallax Effects  
-- ✅ Box Model (Margin, Border, Padding, Outline)  
-- ✅ Pseudo-classes and Pseudo-elements (`:hover`, `:focus`, `::first-letter`, `::first-line`)  
-- ✅ Responsive Design using Media Queries  
-- ✅ Form Styling and Centering Techniques  
-- ✅ CSS Transitions and Hover Animations  
-- ✅ Sticky, Fixed, and Relative Positioning  
+- CSS **Pseudo-classes** (`:hover`, `:focus`, `:active`, `:nth-child`)  
+- **CSS Tooltips** using position and transitions  
+- **Image Showcase** using Grid / Flexbox and hover effects  
+- Different **CSS Selectors** (element, class, ID, attribute, combinators)  
+- **Button Styling** with hover, focus, and disabled states  
+- **CSS Animations** with `@keyframes` and smooth transitions  
+- **UI Components** (search bar, dropdown, buttons) using Flexbox  
+- **Box Sizing** comparison (`content-box` vs `border-box`)  
+- **Combined Effects** using transitions, transformations, and pseudo-classes  
+- A **Mini UI Layout** with header, main content, and footer  
+
+---
+
+## 🧰 Technologies Used
+- **HTML5** (Semantic Elements: `header`, `main`, `section`, `footer`)  
+- **CSS3** (Internal CSS only)  
+- **Flexbox** and **Grid Layouts**  
+- **Transitions** and **Animations**
 
 ---
