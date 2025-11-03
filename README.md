@@ -1,17 +1,29 @@
-# 🧠 HTML Iframes & Basic HTML Assignment  
+# 💪 CSS Flexbox Assignment  
 **Author:** Balkrishna Goswami  
 **Course:** Web Development (5th Semester)  
 **Institute:** GLA University  
-**Branch:** html-iframes
+**Branch:** flex
 
 ---
 
 ## 📘 Overview
-This assignment demonstrates the use of **HTML iframes**, **framesets**, and **basic HTML elements** across 20 questions.  
-Each question is implemented in a **separate `.html` file**, following all given instructions:
-- ✅ Only pure HTML (no CSS or JavaScript)
-- ✅ Proper indentation and comments
-- ✅ Use of attributes like `title`, `loading`, `required`, `autocomplete`, etc.
-- ✅ UTF-8 encoding and semantic structure
+This assignment is fully dedicated to mastering **CSS Flexbox**, one of the most powerful layout systems in modern web design.  
+It demonstrates how Flexbox simplifies creating **responsive**, **aligned**, and **visually balanced** layouts across multiple screen sizes.  
+
+Each question contains **separate `.html` and `.css` files** that build understanding from basic alignment to complex responsive layouts using Flexbox.
+
+---
+
+## 🧩 Topics Covered
+- ✅ **Core Flexbox Properties:**  
+  - `display: flex`, `flex-direction`, `justify-content`, `align-items`, `flex-wrap`, `align-content`, `gap`  
+- ✅ **Centering Techniques** (Horizontal and Vertical Alignment)  
+- ✅ **Flexbox-Based Page Layouts:** Header, Sidebar, Footer, and Multi-section structures  
+- ✅ **Equal-height Columns and Responsive Boxes**  
+- ✅ **Nested Flex Containers** (Flex inside Flex)  
+- ✅ **Alignment and Distribution of Items across Devices**  
+- ✅ **Responsive Design with Media Queries**  
+- ✅ **Hover Effects and Simple CSS Transitions**  
+- ✅ **Practical Implementations:** Product cards, pricing tables, portfolio, loaders, and more  
 
 ---
